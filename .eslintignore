@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules
+
+# output directories
+dist
+
+# config directories
+config
+
+# build script directories
+build

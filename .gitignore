@@ -4,6 +4,9 @@
 # Mac OS
 .DS_Store
 
+# Output file
+dist
+
 # Logs
 logs
 *.log
